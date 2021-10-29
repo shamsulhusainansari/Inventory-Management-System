@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695949614848",
+    "project_id": "valves-9d8f1",
+    "storage_bucket": "valves-9d8f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695949614848:android:bd202b4a1d2ca22f825de5",
+        "android_client_info": {
+          "package_name": "com.knoxtech.valves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695949614848-52rpnmpflvj5p8uur5pg7054kb0at7t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRm61GdZidxJ9dFiILNKNkPl8CqKLoZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695949614848-52rpnmpflvj5p8uur5pg7054kb0at7t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

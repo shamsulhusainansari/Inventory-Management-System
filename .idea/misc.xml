@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/dialog.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/home_background.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/home_button.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_authentication_amico.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.10740740740740741" />
+        <entry key="app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/ic_baseline_sort_24.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/ic_iconmonstr_check_mark_6.xml" value="0.1712962962962963" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/rounded_alert_dialog.xml" value="0.1712962962962963" />
+        <entry key="app/src/main/res/drawable/shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/sort_24.xml" value="0.209375" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.20936794582392776" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_more_details.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_qr.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/activity_qr_result.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/activity_upload_documents.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/add_valves.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/back_recycler_shape.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/back_shadow.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/custom_dialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/front_layout.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/front_recycler.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/multi_pdf.xml" value="0.18" />
+        <entry key="app/src/main/res/menu/top_app_bar.xml" value="0.19322916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

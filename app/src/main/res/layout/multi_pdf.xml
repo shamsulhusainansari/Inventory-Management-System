@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="6dp"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/Qr_pdf"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_baseline_picture_as_pdf_24"
+        android:contentDescription="@string/pdf" />
+
+    <TextView
+        android:id="@+id/bar_Name"
+        android:layout_marginStart="6dp"
+        android:gravity="fill_horizontal"
+        android:textSize="17sp"
+        android:textColor="@color/purple_700"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"/>
+</LinearLayout>

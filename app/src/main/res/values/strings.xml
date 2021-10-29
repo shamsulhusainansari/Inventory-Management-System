@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Valves</string>
+    <string name="authimage">authImage</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sort">Sort</string>
+    <string name="cancel">Cancel</string>
+    <string name="security">security</string>
+    <string name="type_of_material">Type of material</string>
+    <string name="share">Share</string>
+    <string name="casting">Casting</string>
+    <string name="heat_number">Heat Number</string>
+    <string name="size">Size</string>
+    <string name="class_casting">Class</string>
+    <string name="type_of_casting">Type of Casting</string>
+    <string name="material_of_construction">Material of Construction</string>
+    <string name="submit">Submit</string>
+    <string name="scanner">scanner</string>
+    <string name="rolled_bar">Rolled Bar</string>
+    <string name="outer_diameter">Outer Diameter</string>
+
+    <string name="AA">Auma Actuator</string>
+    <string name="CA">Casting</string>
+    <string name="FB">Forged Bar</string>
+    <string name="PO">Positioner</string>
+    <string name="RB">Rolled Bar</string>
+    <string name="SA">SD Tork Actuator</string>
+
+    <string name="wrk_num">Work Number</string>
+    <string name="outerDim">Outer Diameter</string>
+    <string name="bar_id">Bar ID</string>
+    <string name="model">Model</string>
+    <string name="make">Make</string>
+    <string name="invoice">Invoice</string>
+    <string name="serialNum">Serial Number</string>
+
+    <string name="work_number_display">Work Number : </string>
+    <string name="size_num_display">Size : </string>
+    <string name="cls_display">Class : </string>
+    <string name="toc_display">Type of Casting : </string>
+    <string name="moc_display">mOc : </string>
+    <string name="dim">Diameter : </string>
+    <string name="barId">Bar ID : </string>
+
+    <string name="model_display">Model : </string>
+    <string name="make_display">Make : </string>
+    <string name="invoice_display">Invoice : </string>
+    <string name="serial">Serial No. :</string>
+    <string name="add_valves">Add Valves</string>
+    <string name="valve_name">Valve Name</string>
+    <string name="bar_id_separated_by_a_comma">Bar id separated by a comma</string>
+    <string name="generate_qr_code">Generate QR-Code</string>
+    <string name="pdf">pdf</string>
+    <string name="upload_file">Upload File</string>
+    <string name="upload_documents">Upload Documents</string>
+    <string name="qr_s">QR\'s</string>
+    <string name="choose_and_upload">Choose and Upload</string>
+    <string name="enter_barcode">Enter Barcode</string>
+    <string name="choose_file">Choose File</string>
+    <string name="view_inventory">View Inventory</string>
+</resources>

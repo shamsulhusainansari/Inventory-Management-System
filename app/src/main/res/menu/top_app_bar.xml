@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/upload"
+        android:title="@string/upload_documents"
+        android:icon="@drawable/ic_baseline_cloud_upload_24"
+        app:showAsAction="ifRoom"
+        android:contentDescription="@string/upload_documents"/>
+
+    <item
+        android:id="@+id/qrs"
+        android:title="@string/view_inventory"
+        android:contentDescription="@string/qr_s" />
+
+</menu>

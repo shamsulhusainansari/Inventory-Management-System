@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_marginTop="16dp"
+    android:orientation="vertical"
+    android:id="@+id/front_layout_bg"
+    android:layout_marginStart="36dp"
+    android:background="@drawable/home_background"
+    android:layout_marginEnd="36dp"
+    android:layout_gravity="center_horizontal"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:id="@+id/security"
+        android:layout_width="270dp"
+        android:layout_height="220dp"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/security"
+        android:src="@drawable/ic_security_on_bro" />
+
+        <TextView
+            android:id="@+id/mot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/security"
+            android:layout_centerHorizontal="true"
+            android:text="@string/type_of_material"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_marginTop="6dp"
+            android:id="@+id/bar_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:layout_marginStart="12dp"
+            android:text="@string/type_of_material"
+            android:layout_below="@+id/mot"
+            android:textSize="16sp"/>
+
+
+    <Button
+        android:id="@+id/btnShare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bar_number"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/home_button"
+        android:drawableEnd="@drawable/ic_baseline_share_24"
+        android:text="@string/share"
+        android:textColor="@color/black" />
+
+</RelativeLayout>
